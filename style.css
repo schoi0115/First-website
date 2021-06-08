@@ -1,0 +1,18 @@
+h2 {
+    color: white;
+    background-color: Green;
+    width: 200px;
+    text-align: center
+}
+
+h3 {
+    color: white;
+    background-color: white;
+    width: 200px;
+    text-align: center
+}
+
+body {
+    background-color: #012565;
+    width: 100px;
+}
